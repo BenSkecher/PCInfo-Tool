@@ -36,13 +36,8 @@ Operating System: Microsoft Windows 64bit
 Powershell Version: 5.0 / 5.1
 
 SKECHERHUB TERMS FOR USING THE PRODUCT
-These license terms are an agreement between Skecherhub Technologies and you. Please read them. They apply to the software, which includes the media on which you received it, if any. The terms also apply to any PCInfo updates for this software, unless other terms accompany those items. If so, those terms apply.
 
-BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
-
-If you comply with these license terms, you have the rights below.
-
-1. USE RIGHTS. You may run and use any number of copies of the software on your devices.
+1. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
 
 2. SCOPE OF LICENSE. The software is licensed, not sold. This agreement only gives you some rights to use the software. Skecherhub Technologies reserves all other rights. Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement. In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways. You may not
 
